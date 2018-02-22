@@ -20,5 +20,7 @@ $('.image-popup').magnificPopup({
 //    el.style.display = 'none';
 //});
 
+[]
+
 //ez ugyanazt csinálja mint a fentebbi kód, csa ez a jquery library segítségével:
 $('.image-popup').css('display', 'none');
